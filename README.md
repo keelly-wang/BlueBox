@@ -3,7 +3,7 @@ by Kelly Wang, Alex Salsali, Joanna Yang <br>
 
 BlueBox identifies a waste item the user chooses and presents information on how to dispose of the item. Once the user selects an item, the program will ask the user a series of “Yes” or “No” questions to determine the item the user has chosen. When the program guesses the item correctly, it will give the user information about proper disposal of the item.
 
-Features <br>
+<strong> Features </strong> <br>
 ●	Guess the Item <br>
 Accurately and efficiently identifies the waste item the user is thinking of through a series of yes-no questions. 
 
